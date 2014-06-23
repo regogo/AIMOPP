@@ -6,6 +6,6 @@ package aimopp.models;
 public class ZoomableSlide {
 
 
-
+   private String yes;
 
 }
